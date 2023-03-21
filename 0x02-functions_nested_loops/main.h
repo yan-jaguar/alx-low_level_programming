@@ -1,4 +1,4 @@
-#ifindef MAIN_h
+#ifndef MAIN_h
 #define MAIN_H
 
 void print_alphabet(void);
