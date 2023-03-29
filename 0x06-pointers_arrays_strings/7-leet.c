@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * leet - encodes a string into 1337
- * @n: input
+ * leet - encodes into 1337speak
+ * @n: input value
  * Return: the value of n
  */
 char *leet(char *n)
