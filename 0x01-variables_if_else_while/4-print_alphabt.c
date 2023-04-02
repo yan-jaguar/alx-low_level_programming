@@ -3,8 +3,7 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point
- * *
+ * main - Entry point.
  * Return: always 0 (on success)
  */
 
@@ -19,6 +18,6 @@ int main(void)
 		if (low != e && low != q)
 			putchar(low);
 	}
-	5putchar('\n');
+	putchar('\n');
 	return (0);
 }
