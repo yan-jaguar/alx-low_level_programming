@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <sdtlib.h>
+
 /**
  * main - Prints multiplication of two numbers, followed by a new line.
  * @argc: number of arguments
