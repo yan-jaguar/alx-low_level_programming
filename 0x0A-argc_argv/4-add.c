@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
  * main - Prints the addition of positive num,
- *        followed by a new line
+ * followed by a new line
  * @argc: number of arguments passed
  * @argv: array of pointers to the arguments.
  * Return: Always 0 (Success)
