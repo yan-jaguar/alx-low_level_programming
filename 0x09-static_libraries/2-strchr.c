@@ -10,10 +10,10 @@ char *_strchr(char *a, char b)
 {
 	int j = 0;
 
-	for (; a[j] >= '\0'; i++)
+	for (; a[j] >= '\0'; j++)
 	{
 		if (a[j] == b)
-			return (&a[i]);
+			return (&a[j]);
 	}
 	return (0);
 }
