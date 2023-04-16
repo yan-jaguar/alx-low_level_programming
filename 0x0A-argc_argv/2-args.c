@@ -1,4 +1,4 @@
-#include <studio>
+#include <stdio>
 /**
  * main - prints all arguments it receives
  * @argc: number of arguments

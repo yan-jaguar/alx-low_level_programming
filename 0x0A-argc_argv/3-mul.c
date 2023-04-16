@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include <stdio.h>
 /**
  * main - Prints multiplication of two numbers, followed by a new line.
  * @argc: number of arguments

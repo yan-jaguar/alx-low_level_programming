@@ -1,4 +1,4 @@
-#include <studio>
+#include <stdio>
 /**
  * main - Prints the addition of positive num,
  *        followed by a new line
