@@ -4,7 +4,7 @@
  *@a: interger 1
  *@b: interger 2
  *
- *Return: a * b
+ *Return: 0
  */
 
 int mul(int a, int b)
