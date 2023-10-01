@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
  * _pow_recursion - function that returns the a value
  * @x: base interger
- * @y exponet
+ * @y: exponet
  *
  * Return: return x as an int
  */
